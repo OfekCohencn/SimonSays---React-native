@@ -100,17 +100,3 @@ export default function Home( {navigation}: any )
       </View>
     );
 };
-
-const styles = StyleSheet.create(
-{
-  InputText:
-  {
-    width: '100%',
-    borderBottomWidth: 1,
-    borderBottomColor: '#00f2ff',
-    height: '20%',
-    padding:'2%',
-    top: '6%',
-    fontSize: 14
-  },
-});
